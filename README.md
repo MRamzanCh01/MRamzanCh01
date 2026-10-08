@@ -165,12 +165,12 @@ I'm always interested in collaborating on projects related to:
 
 | Repository | Description |
 |------------|-------------|
-| [💰 Budgeted](https://github.com/MegaMind-Solution/Budgeted---Shared-Expense-Tracker-With-Guest-Mode-Features) | A collaborative budget and expense tracker for households, trips, and personal use. Easily split bills, manage shared budgets, and track expenses by category. |
-| [🚀 Chrome App Launcher](https://github.com/MegaMind-Solution/Chrome-App-Launcher) | Quickly access Google™ services, websites, and APIs from a clean and lightweight browser extension designed for speed and productivity. |
-| [📝 MDEditore](https://github.com/MegaMind-Solution/MDEditore) | A modern, customizable, and lightweight WYSIWYG Markdown editor built with pure JavaScript and no external dependencies. |
-| [⭐ Pro-Profiles](https://github.com/MegaMind-Solution/Pro-Profiles) | A curated collection of inspiring GitHub profile READMEs from developers, designers, and tech enthusiasts worldwide. |
-| [📨 Simple Universal Contact Form](https://github.com/MegaMind-Solution/Simple-Universal-Contact-Form) | A universal WordPress contact form plugin featuring a centralized backend, automatic admin detection, reusable architecture, and full editor integration. |
-| [🔔 Toaster](https://github.com/MegaMind-Solution/toaster) | A lightweight, zero-dependency JavaScript library that transforms native HTML `title` attributes into elegant floating toast-style tooltips. |
+| [💰 Budgeted](https://github.com/MRamzanCh01/Budgeted---Shared-Expense-Tracker-With-Guest-Mode-Features) | A collaborative budget and expense tracker for households, trips, and personal use. Easily split bills, manage shared budgets, and track expenses by category. |
+| [🚀 Chrome App Launcher](https://github.com/MRamzanCh01/Chrome-App-Launcher) | Quickly access Google™ services, websites, and APIs from a clean and lightweight browser extension designed for speed and productivity. |
+| [📝 MDEditore](https://github.com/MRamzanCh01/MDEditore) | A modern, customizable, and lightweight WYSIWYG Markdown editor built with pure JavaScript and no external dependencies. |
+| [⭐ Pro-Profiles](https://github.com/MRamzanCh01/Pro-Profiles) | A curated collection of inspiring GitHub profile READMEs from developers, designers, and tech enthusiasts worldwide. |
+| [📨 Simple Universal Contact Form](https://github.com/MRamzanCh01/Simple-Universal-Contact-Form) | A universal WordPress contact form plugin featuring a centralized backend, automatic admin detection, reusable architecture, and full editor integration. |
+| [🔔 Toaster](https://github.com/MRamzanCh01/toaster) | A lightweight, zero-dependency JavaScript library that transforms native HTML `title` attributes into elegant floating toast-style tooltips. |
 
 ---
 
@@ -178,22 +178,22 @@ I'm always interested in collaborating on projects related to:
 
 <p align="center">
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MegaMind-Solution&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=MRamzanCh01&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 
 <p align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MegaMind-Solution&bg_color=2e2c35&color=f44234&line=f44234&point=ff837a&area=true&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MRamzanCh01&bg_color=2e2c35&color=f44234&line=f44234&point=ff837a&area=true&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/MegaMind-Solution?theme=dark" />
-  <img alt="MegaMind-Solution's commit history" src="https://commit-history.com/embed/MegaMind-Solution" />
+<source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/MRamzanCh01?theme=dark" />
+  <img alt="MRamzanCh01's commit history" src="https://commit-history.com/embed/MRamzanCh01" />
 </picture>
 
 </p>
@@ -208,7 +208,7 @@ I'm always interested in collaborating on projects related to:
 
 <p align="center">
 
-<a href="https://github.com/MegaMind-Solution">
+<a href="https://github.com/MRamzanCh01">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 <img src="https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge"/>
@@ -234,9 +234,9 @@ I'm always interested in collaborating on projects related to:
 
 <img src="https://komarev.com/ghpvc/?username=MegaMind-Solution&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/github/followers/MegaMind-Solution?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/followers/MRamzanCh01?style=for-the-badge&logo=github"/>
 <img src="https://img.shields.io/badge/%2D%2D%2D%2D%2D%2D-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/MegaMind-Solution?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/github/stars/MRamzanCh01?style=for-the-badge&logo=github"/>
 
 </p>
 
